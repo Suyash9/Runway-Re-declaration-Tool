@@ -1,0 +1,2 @@
+# Runway-Re-declaration-Tool
+A tool which, given standard runway information and information about an obstacle, provides the revised runway parameters together with a visualisation of the obstacle and a summary of the calculations. The tool will be used to obtain a rapid indication of the effect of an obstruction on the runway parameters as an aid to deciding whether operations can continue, and whether performing the calculations in accord with the official process is worthwhile. The tool will be used as an aid/guide.
