@@ -1,0 +1,34 @@
+Original Runway Distances
+TORA = 3660
+TODA = 3660
+ASDA = 3660
+LDA  = 3353
+
+Recalculated Runway Distances
+Updated TORA = 2903
+Updated TODA = 2903
+Updated ASDA = 2903
+Updated LDA  = 2393
+
+Obstacle Specification
+Name = Boeing 747SP
+Width (m) = 59
+Length (m) = 56
+Height (m) = 15
+Distance from Centreline (m) = 60
+Distance from Left Threshold (m) = 3203
+Distance from Right Threshold (m) = 150
+Blast Protection = 300
+
+Airport Data 
+Name = Sofia Airport
+Runways = [09R, 27L, 09L, 27R]
+
+More Runway Data
+Displaced Threshold = 307
+Stopway = 0
+Clearway = 0
+RESA = 240
+ALS = 50
+TOCS = 50
+Runway Strip = 1
